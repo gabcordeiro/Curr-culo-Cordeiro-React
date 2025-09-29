@@ -1,0 +1,44 @@
+Gabriel Cordeiro de Carvalho
+Brasileiro, Solteiro, 28 Anos
+Endereço: Vila Velha, ES
+Telefone: +55 (27) 99312-2222
+E-mail: gcordeirocarvalho97@gmail.com
+GitHub: https://github.com/gabcordeiro
+LinkedIn: https://www.linkedin.com/in/gabriel-cordeiro-a2a1351bb/
+RESUMO PROFISSIONAL
+Desenvolvedor com experiência em projetos Mobile e Web, atuando com Scrum e metodologias ágeis. Especialidade nas
+linguagens C#, Java, Python, e frameworks .NET, Angular, React, Unity e bancos de dados SQL, focado em desenvolver projetos.
+FORMAÇÃO
+● Ciência da Computação – Universidade Vila Velha (UVV)
+2019 - 2024 (concluido)
+Foco em desenvolvimento de software e sistemas distribuídos. Principais disciplinas incluem Estruturas de Dados, Programação
+Orientada a Objetos, Banco de Dados, Engenharia de Software, e Padrões de desenvolvimento .
+EXPERIÊNCIAS PROFISSIONAIS
+● Bolsa em Realidade Virtual VALE - UVV - 2021 – 2025
+Cargo: Desenvolvedor de Realidade Virtual
+Desenvolvimento de processos em Realidade Virtual, utilizando C#, para treinamentos voltados a atividades de risco.
+● Estágio em Desenvolvedor Flutter - Jade Autistic - 01/24 – 08/24
+Cargo: Desenvolvedor de Flutter
+Criação de aplicações mobile em Flutter e frameworks como Firebase, com foco em acessibilidade e experiência do usuário.
+HABILIDADES
+● Linguagens de Programação: C#, Java, SQL, Python, JavaScript, ABAP.
+● Frameworks: .NET, React Native, Angular, Unity3D, Flutter.
+● Tecnologias: SAP S/4HANA, Tailwind CSS, Redes Neurais, YOLO v9, FlutterFlow.
+● Ferramentas de Design: Kit Adobe, Blender.
+● Banco de Dados: Firebase, PostgreSQL, Supabase (modelagem, consultas e otimização)
+CERTIFICADOS
+● React Native: Desenvolva APPs Nativas para Android e iOS -
+https://www.udemy.com/certificate/UC-fe6669fa-71df-4273-a006-5ae0f4118b51/
+● Scrum Fundamentals Certifiedhttps://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-GabrielCordeiro
+DeCarvalho-1092249.pdf
+● Curso de Postman API -
+https://workover.com.br/certificados/cursos/d4cf0633c09d8ba832e7236bd09a7698/validador
+● Certificado de C#. e MySQL - 2024 -
+https://workover.com.br/cursos/1865/certificados/0e2a4f933e529d8cb544246d4f6d66bc
+ARTIGOS PUBLICADOS
+● Optimizing Industrial Processes through Digital Twin Simulation in a Didactic Manufacturing Plant
+SVR '23: Proceedings of the 25th Symposium on Virtual and Augmented Reality
+https://dl.acm.org/doi/10.1145/3625008.3625015/
+● VREnergy: A simulator for critical operating procedures in electrical substations with evaluation process
+SVR '24: Proceedings of the 26th Symposium on Virtual and Augmented Reality
+https://dl.acm.org/doi/10.1145/3691573.3691601
